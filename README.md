@@ -5,7 +5,7 @@ Get list of retweets, quote retweeters is ready.
 
 Project's roadmap below
 
-Milestone 1: get list of retweeters and quote-retweeters
+Milestone 1: get list of retweeters and quote-retweeters -> Done
 
 Milestone 2: get list of repliers and likers
 
