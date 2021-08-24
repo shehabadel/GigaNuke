@@ -5,8 +5,8 @@ Get list of retweets, quote retweeters is ready.
 
 Project's roadmap below
 
-#TODO: get list of repliers and likers
+Milestone 1: get list of retweeters and quote-retweeters
 
-#TODO: add full list in a set
+Milestone 2: get list of repliers and likers
 
-#TODO: create log files to save operations, and list of blocked users
+Milestone 3: create log files to save operations, and list of blocked users
